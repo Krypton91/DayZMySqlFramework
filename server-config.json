@@ -1,0 +1,11 @@
+{
+	"connectionLimit": 1000,
+	"DataBaseUsername": "root",
+	"DataBasePassword": "",
+	"DataBaseHostAdress": "localhost",
+	"DataBasePort": "3306",
+	"DBTableName": "DayZMySqlFramework",
+	"ServerAuthKey": "SUPERSECRETSERVERAUTHKEY",
+	"WriteLogs": false
+	
+}
